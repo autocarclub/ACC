@@ -1,0 +1,6 @@
+0 turn_left_ahead
+1 turn_right_ahead
+2 stop
+3 o_red
+4 o_green
+5 noise_blue

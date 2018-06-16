@@ -1,0 +1,3 @@
+0 turn_left_ahead
+1 turn_right_ahead
+2 stop
