@@ -1,0 +1,3 @@
+/home/namntse05438/Desktop/nguyen_the_nam_se05438/Q2/build/CMakeFiles/edit_cache.dir
+/home/namntse05438/Desktop/nguyen_the_nam_se05438/Q2/build/CMakeFiles/rebuild_cache.dir
+/home/namntse05438/Desktop/nguyen_the_nam_se05438/Q2/build/CMakeFiles/run.dir
