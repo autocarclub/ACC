@@ -1,0 +1,3 @@
+/home/nc/Desktop/ACC/T2/ConvertColorSpace/build/CMakeFiles/edit_cache.dir
+/home/nc/Desktop/ACC/T2/ConvertColorSpace/build/CMakeFiles/rebuild_cache.dir
+/home/nc/Desktop/ACC/T2/ConvertColorSpace/build/CMakeFiles/run.dir
