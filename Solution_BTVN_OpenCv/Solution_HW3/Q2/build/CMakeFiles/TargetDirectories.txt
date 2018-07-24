@@ -1,0 +1,3 @@
+/home/namntse05438/BTVN_OpenCv/Bai3/Solution_HW3/Q2/build/CMakeFiles/edit_cache.dir
+/home/namntse05438/BTVN_OpenCv/Bai3/Solution_HW3/Q2/build/CMakeFiles/rebuild_cache.dir
+/home/namntse05438/BTVN_OpenCv/Bai3/Solution_HW3/Q2/build/CMakeFiles/run.dir
