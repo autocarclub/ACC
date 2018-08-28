@@ -1,0 +1,3 @@
+/home/namanh/Documents/ACC/Block5_Tuan1/HW/Solution2/build/CMakeFiles/edit_cache.dir
+/home/namanh/Documents/ACC/Block5_Tuan1/HW/Solution2/build/CMakeFiles/rebuild_cache.dir
+/home/namanh/Documents/ACC/Block5_Tuan1/HW/Solution2/build/CMakeFiles/run.dir
