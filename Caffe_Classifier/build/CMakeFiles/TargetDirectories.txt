@@ -1,3 +1,0 @@
-/home/namntse05438/SignalClassify_Tool/build/CMakeFiles/edit_cache.dir
-/home/namntse05438/SignalClassify_Tool/build/CMakeFiles/rebuild_cache.dir
-/home/namntse05438/SignalClassify_Tool/build/CMakeFiles/classify_bien_bao.dir
