@@ -1,0 +1,12 @@
+.idea
+__pycache__
+.vs
+.vscode
+*.pyc
+__pycache__
+*.h5
+*.hdf5
+.ipynb_checkpoints
+
+
+
